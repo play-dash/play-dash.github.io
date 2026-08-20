@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://tech10.services-plumbing.kz/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

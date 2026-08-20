@@ -1,0 +1,12 @@
+/*
+Theme Name: Playdash Kazakhstan
+Theme URI: https://playdash55.com/
+Author: SEO.Casino
+Description: One-page Playdash Kazakhstan landing theme (RU). Every section (Hero, Casino, Slots, Betting, Mobile App, Registration, Bonus, FAQ) is an ACF Gutenberg block with fields editable from wp-admin; sidebar/footer/branding/referral URL live on ACF Options pages. All CSS is injected as a single inline <style> block in <head> (no separate stylesheet request) - see inc/enqueue.php. Polylang-ready, Russian as the default/only language for now (language switcher appears next to the logo once a second language is added).
+Version: 1.0.0
+Requires at least: 6.4
+Requires PHP: 7.4
+Tested up to: 6.6
+Requires Plugins: advanced-custom-fields-pro
+Text Domain: playdash-kz
+*/
